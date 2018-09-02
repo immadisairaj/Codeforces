@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class 732A {
+public class 723A {
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
 		
