@@ -8,7 +8,7 @@ public class 1008B {
 	    int n = scan.nextInt();
 	    int temp;
 	    
-	    boolean ans = true;
+	    boolean ans = true;  // initialize ans to true
 	    
 	    int[] wi = new int[n];
 	    int[] hi = new int[n];
