@@ -3,7 +3,7 @@ import java.lang.*;
 
 public class 158B {
 	public static void main (String[] args) {
-		Scanner scan = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in); // Initialize scanner
 		
 		int n = scan.nextInt();
 		scan.nextLine();
