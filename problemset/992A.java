@@ -20,6 +20,6 @@ public class 992A {
 		
 		System.out.println(numbers.size());
 		
-		scan.close();
+		scan.close(); // Close scanner
 	}
 }
