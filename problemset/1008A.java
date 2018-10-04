@@ -24,7 +24,7 @@ public class 1008A {
 		            } else {
 		                wor = false;
 		            }
-		            break;
+		            break;  // breaks the statement
 		        case 'n':
 		            if(count == 1) {
 		                wor = false;
