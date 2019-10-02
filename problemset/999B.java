@@ -10,12 +10,12 @@ public class 999B {
 		String name = scan.nextLine();
 		String temp = "";
 		
-		for(int i=2; i<=n; i++) {
-		    if(n%i == 0) {
-		        for(int j=i-1; j>=0; j--) {
+		for(int i = 2; i <= n; i++) {
+		    if(n % i == 0) {
+		        for(int j = i - 1 ; j >= 0; j--) {
 		            temp += name.charAt(j);
 		        }
-		        for(int j=i; j<n; j++) {
+		        for(int j = i ; j < n ; j++) {
 		            temp += name.charAt(j);
 		        }
 		        name = temp;
