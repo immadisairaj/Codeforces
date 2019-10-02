@@ -7,7 +7,7 @@ public class 469A {
 		
 	    int n = scan.nextInt();
 	    
-	    Set<Integer> numbers = new TreeSet<Integer>();
+	    Set <Integer> numbers = new TreeSet<Integer>();
 	    
 	    int p = scan.nextInt();
 	    
@@ -20,7 +20,7 @@ public class 469A {
 	    
 	    p = scan.nextInt();
 	    
-	    while(p-- > 0) {
+	    while(p -- > 0) {
 	        num = scan.nextInt();
 	        numbers.add(num);
 	    }
